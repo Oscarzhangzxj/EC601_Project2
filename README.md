@@ -7,3 +7,4 @@ My project aims to make it easier for people to find information on public platf
 # User Story:
 In real time, any tweeter or follower can learn about the most popular content or the hottest topic. Fans follow their favorite singers' real-time updates, such as where the singer has recently performed, what they are wearing, the star's personal life, and factual analysis of a hot topic.
 
++ 24214343
