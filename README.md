@@ -11,5 +11,5 @@ In real time, any tweeter or follower can learn about the most popular content o
 + As a politician, I am interested in knowing whether or not the public supports my new bill.
 + As the creator of a new product, I am interested in hearing everyone's thoughts on the product and how it feels to use.
 
-# MVP
+# MVP:
 My project can perform sentiment analysis for anyone desiring to determine the trend of information on the social media platform Twitter.
