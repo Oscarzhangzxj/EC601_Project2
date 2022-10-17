@@ -42,6 +42,9 @@ def authentication(cons_key, cons_secret, acc_token, acc_secret):
     api = tweepy.API(auth)
     return api
 ```
+The program using Google's score range, indicate if a certain score is negative, neutral, or favorable.
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/112965000/196082885-7a1e48ae-48fe-4a5f-b2af-ebbb95e1483f.png">
+
 The subsequent step is rather straightforward. I have added the source code, so all that remains is to search for tweets, extract their sentiment, and evaluate them. Once the software transmits the score, we will obtain the text's score.
 
 # Outcome of the program
