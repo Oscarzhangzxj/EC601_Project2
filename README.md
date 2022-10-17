@@ -46,7 +46,6 @@ The subsequent step is rather straightforward. I have added the source code, so 
 
 # Outcome of the program
 Here is a snapshot of the application we must use to assess the user's phrase. Additionally, it can determine the tone of the writing. And we have their outcomes. Clearly, we have obtained the desired results by debugging the API, and we can deduce a sequence of answers from the user's words.
-![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
-![image](https://user-images.githubusercontent.com/112965000/196081633-eadb0a3e-f965-4f7f-b5fb-5ecbccd962d9.png)
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/112965000/196082636-47e20e14-fa9a-4dc9-a2eb-55bf80904bb4.png">
 
-![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
+
