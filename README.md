@@ -21,6 +21,9 @@ In real time, any tweeter or follower can learn about the most popular content o
 + As a musician, I want to know how well my new album is received by my fans.
 + As a politician, I am interested in knowing whether or not the public supports my new bill.
 + As the creator of a new product, I am interested in hearing everyone's thoughts on the product and how it feels to use.
+# Procedure of building sentiment analyzer
+Install the libraries by typing:
+>pip3 install tweepy nltk google-cloud-language python-telegram-bot
 
 # Outcome of the program
 Here is a snapshot of the application we must use to assess the user's phrase. Additionally, it can determine the tone of the writing. And we have their outcomes. Clearly, we have obtained the desired results by debugging the API, and we can deduce a sequence of answers from the user's words.
