@@ -25,6 +25,28 @@ In real time, any tweeter or follower can learn about the most popular content o
 Install the libraries by typing:
 >pip3 install tweepy nltk google-cloud-language python-telegram-bot
 
+I create the service account key:
+>export GOOGLE_APPLICATION_CREDENTIALS='[PATH_TO_CREDS.JSON]'
+
+Connect to the Twitter API
+It means to define the keys that we generated earlier.
+```
+import tweepy
+ACC_TOKEN = 'YOUR_ACCESS_TOKEN'
+ACC_SECRET = 'YOUR_ACCESS_TOKEN_SECRET'
+CONS_KEY = 'YOUR_CONSUMER_API_KEY'
+CONS_SECRET = 'YOUR_CONSUMER_API_SECRET_KEY'
+def authentication(cons_key, cons_secret, acc_token, acc_secret):
+    auth = tweepy.OAuthHandler(cons_key, cons_secret)
+    auth.set_access_token(acc_token, acc_secret)
+    api = tweepy.API(auth)
+    return api
+```
+The subsequent step is rather straightforward. I have added the source code, so all that remains is to search for tweets, extract their sentiment, and evaluate them. Once the software transmits the score, we will obtain the text's score.
+
 # Outcome of the program
 Here is a snapshot of the application we must use to assess the user's phrase. Additionally, it can determine the tone of the writing. And we have their outcomes. Clearly, we have obtained the desired results by debugging the API, and we can deduce a sequence of answers from the user's words.
+![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
+![image](https://user-images.githubusercontent.com/112965000/196081633-eadb0a3e-f965-4f7f-b5fb-5ecbccd962d9.png)
+
 ![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
