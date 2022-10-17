@@ -17,7 +17,8 @@ My project can perform sentiment analysis for anyone desiring to determine the t
 
 # Phase 1(a): Twitter API
 
-checking the tweets after locating them online
+Checking the tweets after discovering them online, update a few test methods, which will be implemented after they are more precisely described. And the Main Program is utilized to interact with API keys and achieve the project's objectives.
 
-
+# Output of the program
+Here is a snapshot of the application we must use to assess the user's phrase. Additionally, it can determine the tone of the writing. And we have their outcomes.
 ![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
