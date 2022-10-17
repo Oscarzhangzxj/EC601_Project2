@@ -8,7 +8,7 @@ My project aims to make it easier for people to find information on public platf
 
 
 
-# Phase 1(a)
+# Phase 1
 
 Checking the tweets after discovering them online, update a few test methods, which will be implemented after they are more precisely described. And the Main Program is utilized to interact with API keys and achieve the project's objectives.
 
