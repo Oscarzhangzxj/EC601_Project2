@@ -13,3 +13,11 @@ In real time, any tweeter or follower can learn about the most popular content o
 
 # MVP:
 My project can perform sentiment analysis for anyone desiring to determine the trend of information on the social media platform Twitter.
+
+
+# Phase 1(a): Twitter API
+
+checking the tweets after locating them online
+
+
+![image](https://user-images.githubusercontent.com/112965000/196068708-81120311-4281-4b12-b5b4-d854f8eac1a0.png)
