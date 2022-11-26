@@ -1,4 +1,4 @@
-# EC601_Project2
+# _Project2
 
 # Introduction:
 
